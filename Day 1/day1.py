@@ -1,6 +1,6 @@
 f = open("inputDay1.txt", "r")
 
-cont=0
+cont=1
 linea = f.readline()
 
 while linea != "":
